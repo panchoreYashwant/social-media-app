@@ -62,7 +62,7 @@ This is a simple social media application where users can create posts, like/dis
     ```bash
     # Start the backend server
     cd backend
-    npm run dev
+    npm start
     
     # Start the frontend server in a separate terminal
     cd ../frontend
