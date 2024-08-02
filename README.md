@@ -17,6 +17,8 @@ This is a simple social media application where users can create posts, like/dis
   - Ant Design
   - Axios
   - Session storage
+  - react-router-dom
+  - jwt-decode
 - **Backend:**
   - Node.js
   - Express.js
